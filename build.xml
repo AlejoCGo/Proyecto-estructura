@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="SistemaObjetosPerdidos_Unificado" default="default" basedir=".">
+    <description>Proyecto Unificado con Tema Rojo, Blanco y Negro</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
